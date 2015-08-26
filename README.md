@@ -46,3 +46,10 @@ TODO
 ====
 
 - Make /rules - First rule, no proper nouns
+- Load up 2 letter words via script
+
+Voting
+======
+
+This is a possible feature. Voting 2nd API. People submit via API, other vote. If you say legal = true, meaning and use required. Reference is optional. If legal is false, nothing is required.
+
