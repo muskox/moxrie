@@ -41,3 +41,8 @@ $ . venv/bin/activate
 $ venv/bin/pip install flask
 $ ./moxrie.py
 </pre>
+
+TODO
+====
+
+- Make /rules - First rule, no proper nouns
