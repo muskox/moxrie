@@ -40,6 +40,9 @@ $ virtualenv venv
 $ . venv/bin/activate
 $ venv/bin/pip install flask
 $ ./moxrie.py
+# New Window
+$ python load_data.py
+$ curl localhost:5000/words/a
 </pre>
 
 TODO
